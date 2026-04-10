@@ -2,6 +2,8 @@
 
 > Make AI write code that *feels* right, not just works right.
 
+**English** | [中文](README.zh-CN.md)
+
 uiux-skills is a collection of AI agent skills that bring UI/UX expertise into vibe coding. Instead of checking designs after the fact, these skills teach your AI coding tool to understand your product, your users, and your experience standards — before it writes a single line of frontend code.
 
 ## The Problem
